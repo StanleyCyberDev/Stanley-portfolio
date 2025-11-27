@@ -1,4 +1,4 @@
-# Alex Chen - Software Engineer Portfolio Template
+# De Sena - Software Engineer Portfolio Template
 
 A complete, ready-to-use software engineer portfolio website template built with HTML, CSS, and vanilla JavaScript. This turnkey solution includes fully populated dummy data and requires no build steps or external dependencies except JotForm for the contact form.
 
